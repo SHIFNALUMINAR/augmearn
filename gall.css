@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Pinstripe&family=Anton&family=Beau+Rivage&family=Bebas+Neue&family=BhuTuka+Expanded+One&family=Codystar:wght@300&family=Comforter&family=Corinthia:wght@700&family=Dancing+Script:wght@400;700&family=Francois+One&family=Ingrid+Darling&family=Island+Moments&family=Licorice&family=Lobster&family=Luxurious+Script&family=Marck+Script&family=Meddon&family=Meow+Script&family=Mr+Dafoe&family=Neonderthaw&family=Pacifico&family=Rouge+Script&family=Rubik+Dirt&family=Rubik+Maze&family=Rubik+Moonrocks&family=Splash&family=Square+Peg&family=Syne+Mono&family=Syne+Tactile&family=Tangerine&family=Updock&family=Vujahday+Script&display=swap');
+div{
+    height: 647px;
+    width: 22%;
+    background-color: black;
+    border: white 2px solid;
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+div img{
+    width: 100%;
+    height: 300px;
+    border-radius: 164px;
+}
+p{
+    font-size:x-large;
+    font-family: 'Rubik Moonrocks', cursive;}
+
+
+    /* book gallery */
+    /* book name
+    book image
+    author name
+    desc */
